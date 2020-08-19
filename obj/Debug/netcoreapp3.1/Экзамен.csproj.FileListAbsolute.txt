@@ -1,0 +1,13 @@
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.exe
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.deps.json
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.runtimeconfig.json
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.runtimeconfig.dev.json
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.dll
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\bin\Debug\netcoreapp3.1\Экзамен.pdb
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.csprojAssemblyReference.cache
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.AssemblyInfoInputs.cache
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.AssemblyInfo.cs
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.dll
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.pdb
+C:\Users\Андрей\source\repos\Экзамен\Экзамен\obj\Debug\netcoreapp3.1\Экзамен.genruntimeconfig.cache
